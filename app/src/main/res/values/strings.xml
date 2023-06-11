@@ -1,0 +1,73 @@
+<!--
+  ~     Nim : 10120248
+  ~     Nama : Diana Rachmawati Kusnadi
+  -->
+
+<resources>
+    <string name="app_name">Diana SelfApps</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+    <string name="google_maps_key" >AIzaSyAA2bStvFSuZ42iHRgDLutCR3G0Pz2ndEs</string>
+    <string name="hi"><b>Hi . . !</b></string>
+
+    <string name="about">about</string>
+    <string name="about_title">About</string>
+    <string name="dummy_text">Versi MySelf 1.0.0</string>
+    <string name="okay">Okay</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="todo">TODO</string>
+    <string name="hai">Halloo !</string>
+    <string name="its_me">Its me, .</string>
+
+    <string name="myownapps">My Own Apps</string>
+    <string name="alasanbuat">Aku buat aplikasi ini biar kalian kenal aku.\nKan tak kenal maka tak sayang ehe</string>
+
+    <string name="letsgo">Lets Go</string>
+    <string name="siapkenal">Jangan lama-lama ah , yuk kenalan !</string>
+    <string name="description">Description</string>
+    <string name="example_application">Example application</string>
+    <string name="daily">Daily</string>
+    <string name="daily_activity">Daily Activity</string>
+    <string name="friendlist">Friendlist</string>
+    <string name="gallery">Gallery</string>
+    <string name="photo">Photo</string>
+    <string name="home">Home</string>
+    <string name="albee">: h</string>
+    <string name="nim">NIM</string>
+    <string name="_10119203">: 10119203</string>
+    <string name="nama">Nama</string>
+    <string name="kelas">Kelas</string>
+    <string name="if_5">: IF-6</string>
+    <string name="alamat">Alamat</string>
+    <string name="alamatlengkap">: g</string>
+    <string name="agama">Agama</string>
+    <string name="islam">: Islam</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="laki_laki">: Laki-Laki</string>
+    <string name="interest2">Interest</string>
+    <string name="hobi">Hobi</string>
+    <string name="hangout">: Hangout</string>
+    <string name="makanan_kesukaan">Makanan Kesukaan</string>
+    <string name="bakso">: Bakso</string>
+    <string name="minuman_kesukaan">Minuman Kesukaan</string>
+    <string name="thaitea">: Thai tea</string>
+    <string name="football">: Football</string>
+    <string name="cita_cita">Cita-Cita</string>
+    <string name="webdev">: Web Developer</string>
+    <string name="media">Media</string>
+    <string name="music_favorite">Music Favorite</string>
+    <string name="profile">Profile</string>
+    <string name="contact">Contact</string>
+    <string name="find_me">Find Me</string>
+    <string name="about2">About</string>
+    <string name="about_version_application">about version application</string>
+    <string name="example">Example</string>
+    <string name="this_is_the_title">This is the title</string>
+    <string name="facebook">List</string>
+    <string name="social_media">Social Media</string>
+
+
+</resources>

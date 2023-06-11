@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~     Nim : 10120248
+  ~     Nama : Diana Rachmawati Kusnadi
+
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@drawable/tbl3"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true">
+
+
+        <RelativeLayout
+            android:id="@+id/top_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="UselessParent">
+
+            <ImageView
+                android:id="@+id/img_thumbnail"
+                android:layout_width="165dp"
+                android:layout_height="165dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="@color/white"
+                android:contentDescription="@string/todo"
+                android:scaleType="fitXY" />
+
+        </RelativeLayout>
+
+</LinearLayout>

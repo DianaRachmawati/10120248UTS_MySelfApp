@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~     Nim : 10120248
+  ~     Nama : Diana Rachmawati Kusnadi
+
+  -->
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <corners
+                android:radius="50dp" />
+            <gradient
+                android:startColor="@color/lightgreen"
+                android:endColor="@color/darkgreen"/>
+        </shape>
+    </item>
+</layer-list>
